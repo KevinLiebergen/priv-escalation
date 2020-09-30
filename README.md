@@ -1,4 +1,4 @@
-# priv-escalation
+# Privilege escalation based on MITRE ATT&CK
 End of Degree work titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;CK' for the Computer Engineering degree from the University of Alcalá.
 
 Written by student Kevin van Liebergen Avila, supervised by Javier Junquera Sánchez.
