@@ -1,2 +1,28 @@
 # priv-escalation
-End-of-degree project titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;CK'
+End of Degree work titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;CK' for the Computer Engineering degree from the University of Alcalá.
+
+Written by student Kevin van Liebergen Avila, supervised by Javier Junquera Sánchez.
+
+Tool to analyze and report critical points in a system based on MITER ATT&CK techniques.
+
+
+## Requirements
+- python3
+
+
+## Running
+
+### Linux systems
+
+```bash
+$ cd project/lin
+$ python3 main.py
+```
+
+
+### Windows systems
+
+```bash
+$ cd project/win
+$ python3 main.py
+```
