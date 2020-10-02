@@ -3,7 +3,7 @@ End of Degree work titled 'Análisis de procedimientos de escalada de privilegio
 
 Written by student Kevin van Liebergen Avila, supervised by Javier Junquera Sánchez.
 
-Tool to analyze and report critical points in a system based on MITER ATT&CK techniques.
+Tool to analyze and report critical points in a system based on MITRE ATT&CK techniques.
 
 
 ## Requirements
